@@ -1,0 +1,5481 @@
+[
+     {
+          "Number": "1275568826",
+          "Enumeration Date": "2006-07-12",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3264 N EVERGREEN DR NE",
+                    "Street-2": "",
+                    "City": "GRAND RAPIDS",
+                    "State": "MI",
+                    "Zip": "495259746",
+                    "Phone": "616-363-7272",
+                    "Fax": "616-363-7290"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3186 VILLAGE DR STE 201",
+                    "Street-2": "",
+                    "City": "FAYETTEVILLE",
+                    "State": "NC",
+                    "Zip": "283043979",
+                    "Phone": "910-486-5700",
+                    "Fax": "910-486-5950"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "MI",
+                    "license": "4301081377",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "NC",
+                    "license": "2022-02626",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1356637649",
+          "Enumeration Date": "2011-06-24",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "200 HENRY CLAY AVE",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701185798",
+                    "Phone": "504-899-9511",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "210 STATE ST BLDG 10",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701185735",
+                    "Phone": "504-896-7200",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2084P0800X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Psychiatry",
+                    "state": "AL",
+                    "license": "MD32433",
+                    "primary": false
+               },
+               {
+                    "code": "2084P0804X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Child & Adolescent Psychiatry",
+                    "state": "SC",
+                    "license": "MD37287",
+                    "primary": false
+               },
+               {
+                    "code": "2084P0800X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Psychiatry",
+                    "state": "LA",
+                    "license": "302161",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1841383767",
+          "Enumeration Date": "2006-10-02",
+          "NPI Type": "NPI-2",
+          "Sole Proprietor": "",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2015 116TH AVE NE",
+                    "Street-2": "SUITE B",
+                    "City": "BELLEVUE",
+                    "State": "WA",
+                    "Zip": "980043018",
+                    "Phone": "206-592-5000",
+                    "Fax": "206-824-9510"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2015 116TH AVENUE NE",
+                    "Street-2": "SUITE B",
+                    "City": "BELLEVUE",
+                    "State": "WA",
+                    "Zip": "98004",
+                    "Phone": "425-453-8406",
+                    "Fax": "425-453-4173"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RN0300X",
+                    "taxonomy_group": "193400000X - Single Specialty Group",
+                    "desc": "Internal Medicine, Nephrology",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1275928012",
+          "Enumeration Date": "2015-03-30",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1 GUSTAVE L LEVY PL",
+                    "Street-2": "BOX 1230",
+                    "City": "NEW YORK",
+                    "State": "NY",
+                    "Zip": "100296504",
+                    "Phone": "212-241-6500",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1 GUSTAVE L LEVY PL",
+                    "Street-2": "BOX 1230",
+                    "City": "NEW YORK",
+                    "State": "NY",
+                    "Zip": "100296504",
+                    "Phone": "212-241-6500",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2084P0800X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Psychiatry",
+                    "state": "NY",
+                    "license": "285785",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1588245609",
+          "Enumeration Date": "2021-04-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1836 SOUTH AVE",
+                    "Street-2": "",
+                    "City": "LA CROSSE",
+                    "State": "WI",
+                    "Zip": "546015429",
+                    "Phone": "608-782-7300",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1900 SOUTH AVE",
+                    "Street-2": "",
+                    "City": "LA CROSSE",
+                    "State": "WI",
+                    "Zip": "546015467",
+                    "Phone": "608-775-4929",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LA2200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Adult Health",
+                    "state": "WI",
+                    "license": "10546",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1538691043",
+          "Enumeration Date": "2017-04-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "963 SOUTH ROBERT STREET",
+                    "Street-2": "",
+                    "City": "WEST SAINT PAUL",
+                    "State": "MN",
+                    "Zip": "551181446",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "963 ROBERT ST S",
+                    "Street-2": "",
+                    "City": "WEST SAINT PAUL",
+                    "State": "MN",
+                    "Zip": "551181446",
+                    "Phone": "651-726-9500",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LP0200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Pediatrics",
+                    "state": "MN",
+                    "license": "CNP 5078",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1801466354",
+          "Enumeration Date": "2021-06-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1803 JELINEK AVE",
+                    "Street-2": "",
+                    "City": "WESTON",
+                    "State": "WI",
+                    "Zip": "544763532",
+                    "Phone": "715-574-8552",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1803 JELINEK AVE",
+                    "Street-2": "",
+                    "City": "WESTON",
+                    "State": "WI",
+                    "Zip": "544763532",
+                    "Phone": "715-574-8552",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073529228",
+          "Enumeration Date": "2006-07-31",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "P.O. BOX 1559",
+                    "Street-2": "",
+                    "City": "STONY BROOK",
+                    "State": "NY",
+                    "Zip": "11794",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "HEALTH SCIENCES CTR",
+                    "Street-2": "L4, #060",
+                    "City": "STONY BROOK",
+                    "State": "NY",
+                    "Zip": "117948480",
+                    "Phone": "631-444-2975",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Anesthesiology",
+                    "state": "NY",
+                    "license": "166571",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1891892261",
+          "Enumeration Date": "2006-09-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "720 WASHINGTON AVE SE",
+                    "Street-2": "UNIVERSITY OF MINNESOTA PHYSICIANS",
+                    "City": "MINNEAPOLIS",
+                    "State": "MN",
+                    "Zip": "554142924",
+                    "Phone": "612-884-0649",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "PWB SECOND FLOOR, CLINIC 2A",
+                    "Street-2": "516 DELAWARE STREET SE",
+                    "City": "MINNEAPOLIS",
+                    "State": "MN",
+                    "Zip": "55455",
+                    "Phone": "612-626-6100",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "MN",
+                    "license": "38371",
+                    "primary": false
+               },
+               {
+                    "code": "207RC0200X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Critical Care Medicine",
+                    "state": "MN",
+                    "license": "38371",
+                    "primary": false
+               },
+               {
+                    "code": "207RP1001X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Pulmonary Disease",
+                    "state": "MN",
+                    "license": "38371",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1821626342",
+          "Enumeration Date": "2020-03-30",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1514 JEFFERSON HWY",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701212429",
+                    "Phone": "504-842-3000",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1514 JEFFERSON HWY",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701212429",
+                    "Phone": "504-842-3000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "LA",
+                    "license": "338771",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1982910527",
+          "Enumeration Date": "2010-08-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "8940 N WOOD SAGE RD",
+                    "Street-2": "",
+                    "City": "PEORIA",
+                    "State": "IL",
+                    "Zip": "616157822",
+                    "Phone": "309-243-3000",
+                    "Fax": "309-243-3274"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "8940 N WOOD SAGE RD",
+                    "Street-2": "",
+                    "City": "PEORIA",
+                    "State": "IL",
+                    "Zip": "616157822",
+                    "Phone": "309-243-3000",
+                    "Fax": "309-243-3274"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "IL",
+                    "license": "036155397",
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "FL",
+                    "license": "ME115416",
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "MI",
+                    "license": "4301114239",
+                    "primary": false
+               },
+               {
+                    "code": "207RH0003X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Hematology & Oncology",
+                    "state": "IL",
+                    "license": "036155397",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1023119526",
+          "Enumeration Date": "2006-09-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3646 POTTSVILLE PIKE",
+                    "Street-2": "",
+                    "City": "READING",
+                    "State": "PA",
+                    "Zip": "196051700",
+                    "Phone": "610-603-6663",
+                    "Fax": "610-238-8585"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3646 POTTSVILLE PIKE",
+                    "Street-2": "",
+                    "City": "READING",
+                    "State": "PA",
+                    "Zip": "196051700",
+                    "Phone": "610-603-6663",
+                    "Fax": "610-238-8585"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "204C00000X",
+                    "taxonomy_group": "",
+                    "desc": "Neuromusculoskeletal Medicine, Sports Medicine",
+                    "state": "PA",
+                    "license": "MD057525-L",
+                    "primary": false
+               },
+               {
+                    "code": "2081P2900X",
+                    "taxonomy_group": "",
+                    "desc": "Physical Medicine & Rehabilitation, Pain Medicine",
+                    "state": "AZ",
+                    "license": "46335",
+                    "primary": false
+               },
+               {
+                    "code": "2081P2900X",
+                    "taxonomy_group": "",
+                    "desc": "Physical Medicine & Rehabilitation, Pain Medicine",
+                    "state": "PA",
+                    "license": "MD 057525-L",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1386663508",
+          "Enumeration Date": "2006-07-19",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4520 BUSINESS CENTER DRIVE",
+                    "Street-2": "SUITE 200",
+                    "City": "FAIRFIELD",
+                    "State": "CA",
+                    "Zip": "94534",
+                    "Phone": "707-646-3500",
+                    "Fax": "707-646-3501"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4520 BUSINESS CENTER DRIVE",
+                    "Street-2": "SUITE 200",
+                    "City": "FAIRFIELD",
+                    "State": "CA",
+                    "Zip": "94534",
+                    "Phone": "707-646-3500",
+                    "Fax": "707-646-3501"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "CA",
+                    "license": "20A10162",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1811242639",
+          "Enumeration Date": "2012-07-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "700 ACKERMAN RD STE 2120",
+                    "Street-2": "",
+                    "City": "COLUMBUS",
+                    "State": "OH",
+                    "Zip": "432021559",
+                    "Phone": "614-293-4969",
+                    "Fax": "614-293-6111"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2050 KENNY RD",
+                    "Street-2": "",
+                    "City": "COLUMBUS",
+                    "State": "OH",
+                    "Zip": "432213502",
+                    "Phone": "614-293-4969",
+                    "Fax": "614-293-6111"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2084N0400X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Neurology",
+                    "state": "OH",
+                    "license": "35128635",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1063095982",
+          "Enumeration Date": "2021-04-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3894 S STEEPLECHASE RD",
+                    "Street-2": "",
+                    "City": "WASHINGTON",
+                    "State": "UT",
+                    "Zip": "847804800",
+                    "Phone": "334-714-6420",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1301 BERTHA HOWE AVE",
+                    "Street-2": "",
+                    "City": "MESQUITE",
+                    "State": "NV",
+                    "Zip": "890277502",
+                    "Phone": "702-346-0800",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "NV",
+                    "license": "837649",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1306088745",
+          "Enumeration Date": "2009-03-31",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "100 HIGH ST",
+                    "Street-2": "DEPARTMENT OF EMERGENCY MEDICINE",
+                    "City": "BUFFALO",
+                    "State": "NY",
+                    "Zip": "142031126",
+                    "Phone": "716-859-5600",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "100 HIGH ST",
+                    "Street-2": "DEPARTMENT OF EMERGENCY MEDICINE",
+                    "City": "BUFFALO",
+                    "State": "NY",
+                    "Zip": "142031126",
+                    "Phone": "716-859-5600",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "NY",
+                    "license": "258856",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1235696600",
+          "Enumeration Date": "2019-02-21",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "76 HIGH ST",
+                    "Street-2": "",
+                    "City": "LEWISTON",
+                    "State": "ME",
+                    "Zip": "042407649",
+                    "Phone": "207-795-2800",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "76 HIGH ST",
+                    "Street-2": "",
+                    "City": "LEWISTON",
+                    "State": "ME",
+                    "Zip": "042407649",
+                    "Phone": "207-795-2800",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": "WA",
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "ME",
+                    "license": "TP19034",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1376120824",
+          "Enumeration Date": "2021-03-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "33 MAINLAND RD APT 4",
+                    "Street-2": "",
+                    "City": "HARLEYSVILLE",
+                    "State": "PA",
+                    "Zip": "194382548",
+                    "Phone": "215-272-8281",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2741 MACARTHUR RD",
+                    "Street-2": "",
+                    "City": "WHITEHALL",
+                    "State": "PA",
+                    "Zip": "180523632",
+                    "Phone": "610-403-6000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "PA",
+                    "license": "MA062152",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1669904082",
+          "Enumeration Date": "2017-04-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 744785",
+                    "Street-2": "",
+                    "City": "ATLANTA",
+                    "State": "GA",
+                    "Zip": "303744785",
+                    "Phone": "202-476-5000",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "111 MICHIGAN AVE NW",
+                    "Street-2": "",
+                    "City": "WASHINGTON",
+                    "State": "DC",
+                    "Zip": "200102916",
+                    "Phone": "202-476-5000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "DC",
+                    "license": "MD048334",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1780865329",
+          "Enumeration Date": "2007-11-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3421 CONCORD RD",
+                    "Street-2": "",
+                    "City": "YORK",
+                    "State": "PA",
+                    "Zip": "174029001",
+                    "Phone": "717-851-2521",
+                    "Fax": "717-260-3330"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2003 SPRINGWOOD RD",
+                    "Street-2": "",
+                    "City": "YORK",
+                    "State": "PA",
+                    "Zip": "174034836",
+                    "Phone": "717-851-2521",
+                    "Fax": "717-260-3330"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "PA",
+                    "license": "MD433768",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1881697233",
+          "Enumeration Date": "2005-05-31",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1838 GREENE TREE RD",
+                    "Street-2": "STE 535",
+                    "City": "BALTIMORE",
+                    "State": "MD",
+                    "Zip": "212086391",
+                    "Phone": "410-469-4000",
+                    "Fax": "410-469-4074"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1838 GREENE TREE RD",
+                    "Street-2": "STE 535",
+                    "City": "BALTIMORE",
+                    "State": "MD",
+                    "Zip": "212087104",
+                    "Phone": "410-469-4000",
+                    "Fax": "410-469-4074"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RC0000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Cardiovascular Disease",
+                    "state": "MD",
+                    "license": "D0036796",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1932133220",
+          "Enumeration Date": "2006-07-10",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "255 CLINTON AVE",
+                    "Street-2": "",
+                    "City": "EAST PATCHOGUE",
+                    "State": "NY",
+                    "Zip": "117726131",
+                    "Phone": "631-348-0050",
+                    "Fax": "631-348-0105"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "255 CLINTON AVE",
+                    "Street-2": "",
+                    "City": "EAST PATCHOGUE",
+                    "State": "NY",
+                    "Zip": "117726131",
+                    "Phone": "631-348-0050",
+                    "Fax": "631-348-0105"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "231H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Audiologist",
+                    "state": "NY",
+                    "license": "18831",
+                    "primary": false
+               },
+               {
+                    "code": "237600000X",
+                    "taxonomy_group": "",
+                    "desc": "Audiologist-Hearing Aid Fitter",
+                    "state": "NY",
+                    "license": "140000016018",
+                    "primary": false
+               },
+               {
+                    "code": "231HA2400X",
+                    "taxonomy_group": "",
+                    "desc": "Audiologist, Assistive Technology Practitioner",
+                    "state": "NY",
+                    "license": "140000016018",
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1194182287",
+          "Enumeration Date": "2016-01-21",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "41 UNIVERSITY DR STE 300",
+                    "Street-2": "",
+                    "City": "NEWTOWN",
+                    "State": "PA",
+                    "Zip": "189401873",
+                    "Phone": "215-710-5522",
+                    "Fax": "215-710-5181"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "333 COTTMAN AVE",
+                    "Street-2": "",
+                    "City": "PHILADELPHIA",
+                    "State": "PA",
+                    "Zip": "191112434",
+                    "Phone": "215-728-6900",
+                    "Fax": "215-214-4044"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LG0600X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Gerontology",
+                    "state": "PA",
+                    "license": "SP015788",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1215521331",
+          "Enumeration Date": "2021-03-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3334 DVN LN",
+                    "Street-2": "",
+                    "City": "DARBY",
+                    "State": "MT",
+                    "Zip": "598299736",
+                    "Phone": "406-381-2713",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3334 DVN LN",
+                    "Street-2": "",
+                    "City": "DARBY",
+                    "State": "MT",
+                    "Zip": "598299736",
+                    "Phone": "406-375-4142",
+                    "Fax": "406-375-4143"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "MT",
+                    "license": "91830",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1497823041",
+          "Enumeration Date": "2006-12-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2300 WESTERN AVE",
+                    "Street-2": "PO BOX 2170",
+                    "City": "MANITOWOC",
+                    "State": "WI",
+                    "Zip": "542203712",
+                    "Phone": "920-320-8667",
+                    "Fax": "920-320-8616"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2300 WESTERN AVE",
+                    "Street-2": "",
+                    "City": "MANITOWOC",
+                    "State": "WI",
+                    "Zip": "542203712",
+                    "Phone": "920-320-2397",
+                    "Fax": "920-320-8616"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2251E1200X",
+                    "taxonomy_group": "",
+                    "desc": "Physical Therapist, Ergonomics",
+                    "state": "WI",
+                    "license": "3523-024",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1124791264",
+          "Enumeration Date": "2021-07-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4550 COBB PARKWAY NORTH NW STE 201A",
+                    "Street-2": "",
+                    "City": "ACWORTH",
+                    "State": "GA",
+                    "Zip": "301014182",
+                    "Phone": "770-974-4655",
+                    "Fax": "770-974-1970"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4550 COBB PARKWAY NORTH NW STE 201A",
+                    "Street-2": "",
+                    "City": "ACWORTH",
+                    "State": "GA",
+                    "Zip": "301014182",
+                    "Phone": "770-974-4655",
+                    "Fax": "770-974-1970"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "GA",
+                    "license": "F07211103",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1578550679",
+          "Enumeration Date": "2005-10-04",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "275 DRY HILL RD",
+                    "Street-2": "",
+                    "City": "BECKLEY",
+                    "State": "WV",
+                    "Zip": "258012605",
+                    "Phone": "304-253-6060",
+                    "Fax": "304-929-2248"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "275 DRY HILL RD",
+                    "Street-2": "",
+                    "City": "BECKLEY",
+                    "State": "WV",
+                    "Zip": "258012605",
+                    "Phone": "304-253-6060",
+                    "Fax": "304-929-2248"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RX0202X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Medical Oncology",
+                    "state": "WV",
+                    "license": "17770",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1174755672",
+          "Enumeration Date": "2009-08-17",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "6927 GLEN ROSA DR",
+                    "Street-2": "",
+                    "City": "KATY",
+                    "State": "TX",
+                    "Zip": "774947020",
+                    "Phone": "832-622-7805",
+                    "Fax": "281-251-8516"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "17510 HUFFMEISTER RD",
+                    "Street-2": "",
+                    "City": "CYPRESS",
+                    "State": "TX",
+                    "Zip": "774296785",
+                    "Phone": "832-622-7805",
+                    "Fax": "812-518-5162"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "1041C0700X",
+                    "taxonomy_group": "",
+                    "desc": "Social Worker, Clinical",
+                    "state": "TX",
+                    "license": "34824",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1790366169",
+          "Enumeration Date": "2021-04-17",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5819 FARM TO MARKET 88",
+                    "Street-2": "",
+                    "City": "WESLACO",
+                    "State": "TX",
+                    "Zip": "78599",
+                    "Phone": "956-969-2538",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5819 N FM 88",
+                    "Street-2": "",
+                    "City": "WESLACO",
+                    "State": "TX",
+                    "Zip": "785993275",
+                    "Phone": "956-969-2538",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "367A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Advanced Practice Midwife",
+                    "state": "TX",
+                    "license": "1015206",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1952332165",
+          "Enumeration Date": "2006-07-05",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "222 COLORADO AVE",
+                    "Street-2": "",
+                    "City": "FRANKFORT",
+                    "State": "IL",
+                    "Zip": "604231334",
+                    "Phone": "815-469-6646",
+                    "Fax": "815-469-6647"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "222 COLORADO AVE",
+                    "Street-2": "",
+                    "City": "FRANKFORT",
+                    "State": "IL",
+                    "Zip": "604231334",
+                    "Phone": "815-469-6646",
+                    "Fax": "815-469-6647"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "IL",
+                    "license": "036-054141",
+                    "primary": false
+               },
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "IL",
+                    "license": "036054141",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1750725362",
+          "Enumeration Date": "2013-04-25",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "131 ORANGE AVE STE 101B",
+                    "Street-2": "",
+                    "City": "SAN DIEGO",
+                    "State": "CA",
+                    "Zip": "921181408",
+                    "Phone": "619-522-0399",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "131 ORANGE AVE",
+                    "Street-2": "",
+                    "City": "SAN DIEGO",
+                    "State": "CA",
+                    "Zip": "921181408",
+                    "Phone": "619-522-0399",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Hospitalist",
+                    "state": "CA",
+                    "license": "A139921",
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "CA",
+                    "license": "A139921",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1174944508",
+          "Enumeration Date": "2014-01-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "543 SOUTH 4TH STREET",
+                    "Street-2": "",
+                    "City": "HAMBURG",
+                    "State": "PA",
+                    "Zip": "19526",
+                    "Phone": "484-529-2627",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "716 NORTH PARK ROAD",
+                    "Street-2": "",
+                    "City": "WYOMISSING",
+                    "State": "PA",
+                    "Zip": "19610",
+                    "Phone": "610-375-0544",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "104100000X",
+                    "taxonomy_group": "",
+                    "desc": "Social Worker",
+                    "state": "PA",
+                    "license": "SW135045",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1033421938",
+          "Enumeration Date": "2010-07-08",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1126 S FEDERAL HWY STE 610",
+                    "Street-2": "",
+                    "City": "FORT LAUDERDALE",
+                    "State": "FL",
+                    "Zip": "333161257",
+                    "Phone": "212-423-6684",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3 CENTURY DR",
+                    "Street-2": "",
+                    "City": "PARSIPPANY",
+                    "State": "NJ",
+                    "Zip": "070544610",
+                    "Phone": "212-423-6684",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "FL",
+                    "license": "ME148237",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1235149022",
+          "Enumeration Date": "2006-08-08",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "7313 VENTNOR AVENUE",
+                    "Street-2": "",
+                    "City": "VENTNOR",
+                    "State": "NJ",
+                    "Zip": "08406",
+                    "Phone": "",
+                    "Fax": "609-822-1390"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "7313 VENTNOR AVE",
+                    "Street-2": "",
+                    "City": "VENTNOR CITY",
+                    "State": "NJ",
+                    "Zip": "084061958",
+                    "Phone": "609-441-2199",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "NJ",
+                    "license": "MA47847",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1487662748",
+          "Enumeration Date": "2006-08-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3720 HOLLAND RD",
+                    "Street-2": "SUITE 101",
+                    "City": "VIRGINIA BEACH",
+                    "State": "VA",
+                    "Zip": "234522859",
+                    "Phone": "757-463-1234",
+                    "Fax": "757-463-0453"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3720 HOLLAND RD",
+                    "Street-2": "SUITE 101",
+                    "City": "VIRGINIA BEACH",
+                    "State": "VA",
+                    "Zip": "234522859",
+                    "Phone": "757-463-1234",
+                    "Fax": "757-463-0453"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "VA",
+                    "license": "0101043703",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1477513158",
+          "Enumeration Date": "2006-03-25",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 4186",
+                    "Street-2": "",
+                    "City": "DEARBORN",
+                    "State": "MI",
+                    "Zip": "481260186",
+                    "Phone": "313-843-8300",
+                    "Fax": "313-843-8301"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "9925 DIX",
+                    "Street-2": "SUITE 103",
+                    "City": "DEARBORN",
+                    "State": "MI",
+                    "Zip": "481201593",
+                    "Phone": "313-843-8300",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "MI",
+                    "license": "4301077843",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1548350648",
+          "Enumeration Date": "2006-10-13",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2701 E ELVIRA RD",
+                    "Street-2": "",
+                    "City": "TUCSON",
+                    "State": "AZ",
+                    "Zip": "857567124",
+                    "Phone": "520-874-3500",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1501 N CAMPBELL AVE",
+                    "Street-2": "",
+                    "City": "TUCSON",
+                    "State": "AZ",
+                    "Zip": "857240001",
+                    "Phone": "520-694-8888",
+                    "Fax": "520-626-6066"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Anesthesiology",
+                    "state": "AZ",
+                    "license": "21485",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1801320627",
+          "Enumeration Date": "2017-04-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "8900 N KENDALL DR",
+                    "Street-2": "",
+                    "City": "MIAMI",
+                    "State": "FL",
+                    "Zip": "331762118",
+                    "Phone": "786-596-6707",
+                    "Fax": "786-533-9451"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "8900 N KENDALL DR",
+                    "Street-2": "",
+                    "City": "MIAMI",
+                    "State": "FL",
+                    "Zip": "331762118",
+                    "Phone": "786-596-6707",
+                    "Fax": "786-533-9451"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "2085R0204X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Vascular & Interventional Radiology",
+                    "state": "FL",
+                    "license": "ME155162",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1740748789",
+          "Enumeration Date": "2019-03-08",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "913 N DIXIE AVE",
+                    "Street-2": "",
+                    "City": "ELIZABETHTOWN",
+                    "State": "KY",
+                    "Zip": "427012503",
+                    "Phone": "270-706-5275",
+                    "Fax": "270-706-1051"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "913 N DIXIE AVE",
+                    "Street-2": "",
+                    "City": "ELIZABETHTOWN",
+                    "State": "KY",
+                    "Zip": "427012503",
+                    "Phone": "270-706-5275",
+                    "Fax": "270-706-1051"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "KY",
+                    "license": "PA2517",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1093858516",
+          "Enumeration Date": "2007-02-14",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "141 DEVONSHIRE DR",
+                    "Street-2": "",
+                    "City": "STROUDSBURG",
+                    "State": "PA",
+                    "Zip": "183607058",
+                    "Phone": "570-977-7100",
+                    "Fax": "570-619-7416"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1519 N 9TH ST",
+                    "Street-2": "",
+                    "City": "STROUDSBURG",
+                    "State": "PA",
+                    "Zip": "183607576",
+                    "Phone": "570-421-9876",
+                    "Fax": "570-421-9874"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "367A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Advanced Practice Midwife",
+                    "state": "PA",
+                    "license": "MW008552L",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1033537410",
+          "Enumeration Date": "2014-04-02",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "28303 JOY RD",
+                    "Street-2": "",
+                    "City": "WESTLAND",
+                    "State": "MI",
+                    "Zip": "481855524",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "28303 JOY RD",
+                    "Street-2": "",
+                    "City": "WESTLAND",
+                    "State": "MI",
+                    "Zip": "481855524",
+                    "Phone": "734-458-8736",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "103K00000X",
+                    "taxonomy_group": "",
+                    "desc": "Behavior Analyst",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1285675173",
+          "Enumeration Date": "2006-06-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "10027 ASHWOOD LANE",
+                    "Street-2": "",
+                    "City": "MUNSTER",
+                    "State": "IN",
+                    "Zip": "46321",
+                    "Phone": "219-934-0501",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "600 EAST BLVD",
+                    "Street-2": "",
+                    "City": "ELKHART",
+                    "State": "IN",
+                    "Zip": "465142483",
+                    "Phone": "574-524-8130",
+                    "Fax": "574-524-8138"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Anesthesiology",
+                    "state": "IN",
+                    "license": "010155316A",
+                    "primary": false
+               },
+               {
+                    "code": "207L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Anesthesiology",
+                    "state": "IN",
+                    "license": "01055316A",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1659633097",
+          "Enumeration Date": "2012-06-12",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4201 SAINT ANTOINE ST",
+                    "Street-2": "",
+                    "City": "DETROIT",
+                    "State": "MI",
+                    "Zip": "482012153",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4201 SAINT ANTOINE ST",
+                    "Street-2": "",
+                    "City": "DETROIT",
+                    "State": "MI",
+                    "Zip": "482012153",
+                    "Phone": "888-362-2500",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Anesthesiology",
+                    "state": "MI",
+                    "license": "4301100992",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1730161290",
+          "Enumeration Date": "2005-11-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "8765 LEWIS AVE",
+                    "Street-2": "",
+                    "City": "TEMPERANCE",
+                    "State": "MI",
+                    "Zip": "481829583",
+                    "Phone": "734-847-3802",
+                    "Fax": "734-847-3418"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "8765 LEWIS AVE",
+                    "Street-2": "",
+                    "City": "TEMPERANCE",
+                    "State": "MI",
+                    "Zip": "481829583",
+                    "Phone": "734-847-3802",
+                    "Fax": "734-847-3418"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LA2200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Adult Health",
+                    "state": "OH",
+                    "license": "COA.08307-NP",
+                    "primary": false
+               },
+               {
+                    "code": "363LP2300X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Primary Care",
+                    "state": "MI",
+                    "license": "4704192639",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1609974211",
+          "Enumeration Date": "2006-09-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 35100",
+                    "Street-2": "",
+                    "City": "BILLINGS",
+                    "State": "MT",
+                    "Zip": "591075100",
+                    "Phone": "406-238-2500",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "801 N 29TH ST",
+                    "Street-2": "",
+                    "City": "BILLINGS",
+                    "State": "MT",
+                    "Zip": "591010905",
+                    "Phone": "406-446-2412",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "MT",
+                    "license": "8244",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1134518574",
+          "Enumeration Date": "2015-01-22",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "280 CHESTNUT ST",
+                    "Street-2": "2ND FLOOR",
+                    "City": "SPRINGFIELD",
+                    "State": "MA",
+                    "Zip": "011991001",
+                    "Phone": "413-794-5700",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3300 MAIN ST",
+                    "Street-2": "",
+                    "City": "SPRINGFIELD",
+                    "State": "MA",
+                    "Zip": "011071112",
+                    "Phone": "413-794-2273",
+                    "Fax": "413-794-0198"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LA2200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Adult Health",
+                    "state": "MA",
+                    "license": "RN2293298",
+                    "primary": false
+               },
+               {
+                    "code": "363LG0600X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Gerontology",
+                    "state": "MA",
+                    "license": "2293298",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1255316527",
+          "Enumeration Date": "2005-12-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "800 HIGHLANDER POINT DR",
+                    "Street-2": "SUITE 300",
+                    "City": "FLOYDS KNOBS",
+                    "State": "IN",
+                    "Zip": "471199465",
+                    "Phone": "812-923-4106",
+                    "Fax": "812-923-4100"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "800 HIGHLANDER POINT DR",
+                    "Street-2": "SUITE 300",
+                    "City": "FLOYDS KNOBS",
+                    "State": "IN",
+                    "Zip": "471199465",
+                    "Phone": "812-923-4106",
+                    "Fax": "812-923-4100"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "IN",
+                    "license": "01039624",
+                    "primary": false
+               },
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "IN",
+                    "license": "01039624",
+                    "primary": false
+               },
+               {
+                    "code": "208M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Hospitalist",
+                    "state": "IN",
+                    "license": "01039624A",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1700062866",
+          "Enumeration Date": "2008-01-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "390 VINEYARD WAY",
+                    "Street-2": "SUITE 501",
+                    "City": "WEST GROVE",
+                    "State": "PA",
+                    "Zip": "193908835",
+                    "Phone": "304-541-6672",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "390 VINEYARD WAY",
+                    "Street-2": "SUITE 501",
+                    "City": "WEST GROVE",
+                    "State": "PA",
+                    "Zip": "193908835",
+                    "Phone": "304-541-6672",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LP0200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Pediatrics",
+                    "state": "WV",
+                    "license": "47713",
+                    "primary": false
+               },
+               {
+                    "code": "363LP0200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Pediatrics",
+                    "state": "PA",
+                    "license": "SP013398",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1295753515",
+          "Enumeration Date": "2006-07-17",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "100 E PENN SQ",
+                    "Street-2": "9TH FLOOR",
+                    "City": "PHILADELPHIA",
+                    "State": "PA",
+                    "Zip": "191073323",
+                    "Phone": "267-425-9234",
+                    "Fax": "267-425-9299"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3401 CIVIC CENTER BLVD",
+                    "Street-2": "CHILDREN'S HOSPITAL OF PHILADELPHIA - ENDOCRINOLOGY",
+                    "City": "PHILADELPHIA",
+                    "State": "PA",
+                    "Zip": "191044319",
+                    "Phone": "215-590-3174",
+                    "Fax": "215-590-3053"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "PA",
+                    "license": "MD041638L",
+                    "primary": false
+               },
+               {
+                    "code": "2080P0205X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Pediatric Endocrinology",
+                    "state": "PA",
+                    "license": "MD041638L",
+                    "primary": true
+               },
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "NJ",
+                    "license": "25MA07018300",
+                    "primary": false
+               },
+               {
+                    "code": "2080P0205X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Pediatric Endocrinology",
+                    "state": "NJ",
+                    "license": "25MA07018300",
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1447756937",
+          "Enumeration Date": "2018-04-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1600 ROCKLAND RD",
+                    "Street-2": "",
+                    "City": "WILMINGTON",
+                    "State": "DE",
+                    "Zip": "198033607",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1600 ROCKLAND RD",
+                    "Street-2": "",
+                    "City": "WILMINGTON",
+                    "State": "DE",
+                    "Zip": "198033607",
+                    "Phone": "302-651-4200",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "DE",
+                    "license": "C1-0024376",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1235452590",
+          "Enumeration Date": "2010-03-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 845347",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "752845347",
+                    "Phone": "214-648-7833",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5323 HARRY HINES BLVD",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "753907201",
+                    "Phone": "214-648-7833",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "367500000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Anesthetist, Certified Registered",
+                    "state": "TX",
+                    "license": "685575",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1003472366",
+          "Enumeration Date": "2019-05-13",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "11215 METRO PKWY STE 1",
+                    "Street-2": "",
+                    "City": "FORT MYERS",
+                    "State": "FL",
+                    "Zip": "339661206",
+                    "Phone": "813-842-4723",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "11215 METRO PKWY STE 1",
+                    "Street-2": "",
+                    "City": "FORT MYERS",
+                    "State": "FL",
+                    "Zip": "339661206",
+                    "Phone": "239-208-2212",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2084N0400X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Neurology",
+                    "state": "FL",
+                    "license": "ME161342",
+                    "primary": false
+               },
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "2084N0400X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Neurology",
+                    "state": "OR",
+                    "license": "MD215161",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1255733895",
+          "Enumeration Date": "2014-09-25",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "900 E BATTLEFIELD ST STE 124",
+                    "Street-2": "",
+                    "City": "SPRINGFIELD",
+                    "State": "MO",
+                    "Zip": "658075208",
+                    "Phone": "417-986-1289",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "900 E BATTLEFIELD ST STE 124",
+                    "Street-2": "",
+                    "City": "SPRINGFIELD",
+                    "State": "MO",
+                    "Zip": "658075208",
+                    "Phone": "417-986-1289",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "MO",
+                    "license": "2018004268",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1912000613",
+          "Enumeration Date": "2006-09-07",
+          "NPI Type": "NPI-2",
+          "Sole Proprietor": "",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1 CVS DR",
+                    "Street-2": "PO BOX 1075",
+                    "City": "WOONSOCKET",
+                    "State": "RI",
+                    "Zip": "028956146",
+                    "Phone": "401-765-1500",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "8970 S MERIDIAN ST",
+                    "Street-2": "",
+                    "City": "INDIANAPOLIS",
+                    "State": "IN",
+                    "Zip": "462175031",
+                    "Phone": "317-882-0335",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "332B00000X",
+                    "taxonomy_group": "",
+                    "desc": "Durable Medical Equipment & Medical Supplies",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "3336C0003X",
+                    "taxonomy_group": "",
+                    "desc": "Pharmacy, Community/Retail Pharmacy",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "333600000X",
+                    "taxonomy_group": "",
+                    "desc": "Pharmacy",
+                    "state": "IN",
+                    "license": "60004766A",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1033870274",
+          "Enumeration Date": "2022-01-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "20480 VERNIER RD",
+                    "Street-2": "",
+                    "City": "HARPER WOODS",
+                    "State": "MI",
+                    "Zip": "482251411",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "20480 VERNIER RD",
+                    "Street-2": "",
+                    "City": "HARPER WOODS",
+                    "State": "MI",
+                    "Zip": "482251411",
+                    "Phone": "248-938-0141",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "MI",
+                    "license": "5601011685",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1417404039",
+          "Enumeration Date": "2016-09-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "134 STATE ST",
+                    "Street-2": "",
+                    "City": "MERIDEN",
+                    "State": "CT",
+                    "Zip": "064503293",
+                    "Phone": "203-237-2229",
+                    "Fax": "203-686-1677"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "134 STATE ST",
+                    "Street-2": "",
+                    "City": "MERIDEN",
+                    "State": "CT",
+                    "Zip": "06450",
+                    "Phone": "203-237-2229",
+                    "Fax": "203-686-1677"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "FL",
+                    "license": "UO3934",
+                    "primary": false
+               },
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "CT",
+                    "license": "57309",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1295723005",
+          "Enumeration Date": "2005-10-06",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 54888",
+                    "Street-2": "",
+                    "City": "ATLANTA",
+                    "State": "GA",
+                    "Zip": "303080888",
+                    "Phone": "404-350-9505",
+                    "Fax": "404-350-1611"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1718 PEACHTREE ST NW",
+                    "Street-2": "SUITE 360",
+                    "City": "ATLANTA",
+                    "State": "GA",
+                    "Zip": "303092452",
+                    "Phone": "404-350-9505",
+                    "Fax": "404-350-1611"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2086S0129X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery, Vascular Surgery",
+                    "state": "GA",
+                    "license": "029071",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1013159763",
+          "Enumeration Date": "2009-03-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "6141 SUNSET DR STE 403",
+                    "Street-2": "",
+                    "City": "SOUTH MIAMI",
+                    "State": "FL",
+                    "Zip": "331435026",
+                    "Phone": "305-665-2300",
+                    "Fax": "305-669-8966"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "6141 SUNSET DR STE 403",
+                    "Street-2": "",
+                    "City": "SOUTH MIAMI",
+                    "State": "FL",
+                    "Zip": "331435026",
+                    "Phone": "305-665-2300",
+                    "Fax": "305-669-8966"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RE0101X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Endocrinology, Diabetes & Metabolism",
+                    "state": "FL",
+                    "license": "ME 109946",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1538729314",
+          "Enumeration Date": "2019-06-14",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4150 CLEMENT ST BLDG 200",
+                    "Street-2": "",
+                    "City": "SAN FRANCISCO",
+                    "State": "CA",
+                    "Zip": "941211563",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1397 GEORGE DIETER DR STE A",
+                    "Street-2": "",
+                    "City": "EL PASO",
+                    "State": "TX",
+                    "Zip": "799367681",
+                    "Phone": "915-503-2020",
+                    "Fax": "915-996-9574"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "213E00000X",
+                    "taxonomy_group": "",
+                    "desc": "Podiatrist",
+                    "state": "CA",
+                    "license": "EL6899",
+                    "primary": false
+               },
+               {
+                    "code": "213ES0103X",
+                    "taxonomy_group": "",
+                    "desc": "Podiatrist, Foot & Ankle Surgery",
+                    "state": "TX",
+                    "license": "3139",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1003349648",
+          "Enumeration Date": "2017-04-11",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1615 POYDRAS ST STE 1255",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701121287",
+                    "Phone": "504-321-7404",
+                    "Fax": "504-399-0435"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1615 POYDRAS ST STE 1255",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701121287",
+                    "Phone": "504-321-0435",
+                    "Fax": "504-399-0435"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "TX",
+                    "license": "S1536",
+                    "primary": false
+               },
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "193400000X - Single Specialty Group",
+                    "desc": "Family Medicine",
+                    "state": "LA",
+                    "license": "320516",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073515011",
+          "Enumeration Date": "2005-08-10",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5959 S SHERWOOD FOREST BLVD",
+                    "Street-2": "",
+                    "City": "BATON ROUGE",
+                    "State": "LA",
+                    "Zip": "708166038",
+                    "Phone": "225-526-0001",
+                    "Fax": "225-765-9196"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "7777 HENNESSY BLVD STE 1000",
+                    "Street-2": "",
+                    "City": "BATON ROUGE",
+                    "State": "LA",
+                    "Zip": "708084370",
+                    "Phone": "225-767-3900",
+                    "Fax": "225-766-2226"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RI0011X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Interventional Cardiology",
+                    "state": "LA",
+                    "license": "015649",
+                    "primary": false
+               },
+               {
+                    "code": "207RC0000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Cardiovascular Disease",
+                    "state": "LA",
+                    "license": "015649",
+                    "primary": false
+               },
+               {
+                    "code": "207RC0001X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Clinical Cardiac Electrophysiology",
+                    "state": "LA",
+                    "license": "15649",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073941159",
+          "Enumeration Date": "2013-10-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4386 TRAIL BOSS DR STE A",
+                    "Street-2": "",
+                    "City": "CASTLE ROCK",
+                    "State": "CO",
+                    "Zip": "801047512",
+                    "Phone": "303-688-8666",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4386 TRAIL BOSS DR STE A",
+                    "Street-2": "",
+                    "City": "CASTLE ROCK",
+                    "State": "CO",
+                    "Zip": "801047512",
+                    "Phone": "303-688-8666",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "CO",
+                    "license": "3813",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1679532154",
+          "Enumeration Date": "2006-03-22",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "100 N ACADEMY AVE",
+                    "Street-2": "CREDENTIALS DEPT",
+                    "City": "DANVILLE",
+                    "State": "PA",
+                    "Zip": "178224903",
+                    "Phone": "570-271-6144",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "100 N ACADEMY AVE",
+                    "Street-2": "",
+                    "City": "DANVILLE",
+                    "State": "PA",
+                    "Zip": "178222710",
+                    "Phone": "570-271-8091",
+                    "Fax": "570-271-5879"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2080N0001X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Neonatal-Perinatal Medicine",
+                    "state": "PA",
+                    "license": "MD042098L",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1508380858",
+          "Enumeration Date": "2017-07-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1407 NORTH 2000 WEST STE G",
+                    "Street-2": "",
+                    "City": "CLINTON",
+                    "State": "UT",
+                    "Zip": "84015",
+                    "Phone": "385-333-7123",
+                    "Fax": "801-452-6729"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1407 NORTH 2000 WEST STE G",
+                    "Street-2": "",
+                    "City": "CLINTON",
+                    "State": "UT",
+                    "Zip": "84015",
+                    "Phone": "385-333-7123",
+                    "Fax": "801-452-6729"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363AM0700X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant, Medical",
+                    "state": "UT",
+                    "license": "12068710-1206",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1386793552",
+          "Enumeration Date": "2007-01-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2470 BLOOMINGDALE AVE",
+                    "Street-2": "",
+                    "City": "VALRICO",
+                    "State": "FL",
+                    "Zip": "335966403",
+                    "Phone": "813-586-8700",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2470 BLOOMINGDALE AVE",
+                    "Street-2": "",
+                    "City": "VALRICO",
+                    "State": "FL",
+                    "Zip": "335966403",
+                    "Phone": "813-586-8700",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "101YM0800X",
+                    "taxonomy_group": "",
+                    "desc": "Counselor, Mental Health",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "1041C0700X",
+                    "taxonomy_group": "",
+                    "desc": "Social Worker, Clinical",
+                    "state": "FL",
+                    "license": null,
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1407480791",
+          "Enumeration Date": "2020-02-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "820 WEDGEWOOD CIR",
+                    "Street-2": "",
+                    "City": "BELFORD",
+                    "State": "NJ",
+                    "Zip": "077182307",
+                    "Phone": "732-546-1681",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1 RIVERVIEW PLZ",
+                    "Street-2": "",
+                    "City": "RED BANK",
+                    "State": "NJ",
+                    "Zip": "077011864",
+                    "Phone": "732-741-2700",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "NJ",
+                    "license": "25MP00570200",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1588625511",
+          "Enumeration Date": "2006-03-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3190 S WADSWORTH BLVD STE 250",
+                    "Street-2": "",
+                    "City": "LAKEWOOD",
+                    "State": "CO",
+                    "Zip": "802274800",
+                    "Phone": "303-904-0976",
+                    "Fax": "303-948-5318"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3190 S WADSWORTH BLVD STE 250",
+                    "Street-2": "",
+                    "City": "LAKEWOOD",
+                    "State": "CO",
+                    "Zip": "802274800",
+                    "Phone": "303-904-0976",
+                    "Fax": "303-948-5318"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "IN",
+                    "license": "01061001A",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1033525571",
+          "Enumeration Date": "2014-07-04",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "505 W LOUIS HENNA BLVD",
+                    "Street-2": "STE 100",
+                    "City": "ROUND ROCK",
+                    "State": "TX",
+                    "Zip": "78728",
+                    "Phone": "855-481-8375",
+                    "Fax": "512-788-5819"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "505 W LOUIS HENNA BLVD",
+                    "Street-2": "STE 100",
+                    "City": "ROUND ROCK",
+                    "State": "TX",
+                    "Zip": "787281702",
+                    "Phone": "855-481-8375",
+                    "Fax": "512-788-5819"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "TX",
+                    "license": "R2688",
+                    "primary": true
+               },
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1275594277",
+          "Enumeration Date": "2006-03-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2571 W EAU GALLIE BLVD",
+                    "Street-2": "SUITE 2",
+                    "City": "MELBOURNE",
+                    "State": "FL",
+                    "Zip": "329358954",
+                    "Phone": "321-777-9091",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2571 W EAU GALLIE BLVD",
+                    "Street-2": "SUITE 2",
+                    "City": "MELBOURNE",
+                    "State": "FL",
+                    "Zip": "329358954",
+                    "Phone": "321-777-9091",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207N00000X",
+                    "taxonomy_group": "",
+                    "desc": "Dermatology",
+                    "state": "FL",
+                    "license": "ME0071639",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1780601773",
+          "Enumeration Date": "2006-07-16",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1355 CENTRAL PKWY S STE 400",
+                    "Street-2": "",
+                    "City": "SAN ANTONIO",
+                    "State": "TX",
+                    "Zip": "782325057",
+                    "Phone": "210-349-9300",
+                    "Fax": "210-366-2558"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4458 MEDICAL DR STE 705",
+                    "Street-2": "",
+                    "City": "SAN ANTONIO",
+                    "State": "TX",
+                    "Zip": "782293748",
+                    "Phone": "210-615-8585",
+                    "Fax": "210-616-3094"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "TX",
+                    "license": "H9005",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073579835",
+          "Enumeration Date": "2006-04-21",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "6550 FANNIN ST",
+                    "Street-2": "SUITE 1661",
+                    "City": "HOUSTON",
+                    "State": "TX",
+                    "Zip": "770302717",
+                    "Phone": "713-441-5141",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "6550 FANNIN ST",
+                    "Street-2": "SUITE 1661",
+                    "City": "HOUSTON",
+                    "State": "TX",
+                    "Zip": "770302717",
+                    "Phone": "713-441-5141",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "204F00000X",
+                    "taxonomy_group": "",
+                    "desc": "Transplant Surgery",
+                    "state": "TX",
+                    "license": "M5174",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1760561377",
+          "Enumeration Date": "2006-11-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "9225 N 3RD ST",
+                    "Street-2": "SUITE 101",
+                    "City": "PHOENIX",
+                    "State": "AZ",
+                    "Zip": "850202439",
+                    "Phone": "602-861-1218",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "9225 N 3RD ST",
+                    "Street-2": "SUITE 101",
+                    "City": "PHOENIX",
+                    "State": "AZ",
+                    "Zip": "850202439",
+                    "Phone": "602-861-1218",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207XS0106X",
+                    "taxonomy_group": "",
+                    "desc": "Orthopaedic Surgery, Hand Surgery",
+                    "state": "AZ",
+                    "license": "MD11223",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1467946681",
+          "Enumeration Date": "2018-06-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2208 STONEBRIDGE BLVD",
+                    "Street-2": "",
+                    "City": "NEW CASTLE",
+                    "State": "DE",
+                    "Zip": "197206732",
+                    "Phone": "732-991-5494",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2208 STONEBRIDGE BLVD",
+                    "Street-2": "",
+                    "City": "NEW CASTLE",
+                    "State": "DE",
+                    "Zip": "197206732",
+                    "Phone": "732-991-5494",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "1041C0700X",
+                    "taxonomy_group": "",
+                    "desc": "Social Worker, Clinical",
+                    "state": "DE",
+                    "license": "44SC05752000",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1578237277",
+          "Enumeration Date": "2021-08-05",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "6309 CAPRIOLA DR",
+                    "Street-2": "",
+                    "City": "AUSTIN",
+                    "State": "TX",
+                    "Zip": "787453715",
+                    "Phone": "435-669-0568",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2911 MEDICAL ARTS ST STE 19A",
+                    "Street-2": "",
+                    "City": "AUSTIN",
+                    "State": "TX",
+                    "Zip": "787053329",
+                    "Phone": "737-216-2384",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "106H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Marriage & Family Therapist",
+                    "state": "TX",
+                    "license": "203993",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1891754891",
+          "Enumeration Date": "2006-03-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "132 S 10TH ST",
+                    "Street-2": "480 MAIN BUILDING",
+                    "City": "PHILA",
+                    "State": "PA",
+                    "Zip": "191075244",
+                    "Phone": "215-955-8900",
+                    "Fax": "215-955-5245"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1101 CHESTNUT ST",
+                    "Street-2": "",
+                    "City": "PHILA",
+                    "State": "PA",
+                    "Zip": "191073612",
+                    "Phone": "215-955-8900",
+                    "Fax": "215-955-5245"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RG0100X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Gastroenterology",
+                    "state": "PA",
+                    "license": "MD036953E",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1194457622",
+          "Enumeration Date": "2022-06-24",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1935 MEDICAL DISTRICT DR",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "752357701",
+                    "Phone": "214-456-8534",
+                    "Fax": "214-456-0654"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1935 MEDICAL DISTRICT DR",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "752357701",
+                    "Phone": "214-456-8534",
+                    "Fax": "214-456-0654"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "TX",
+                    "license": "1036065",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1689818197",
+          "Enumeration Date": "2009-04-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1236 RXR PLZ",
+                    "Street-2": "",
+                    "City": "UNIONDALE",
+                    "State": "NY",
+                    "Zip": "115561236",
+                    "Phone": "484-788-9786",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1600 HADDON AVE",
+                    "Street-2": "",
+                    "City": "CAMDEN",
+                    "State": "NJ",
+                    "Zip": "081033101",
+                    "Phone": "856-757-3803",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "LA",
+                    "license": "329613",
+                    "primary": false
+               },
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "OK",
+                    "license": "8291",
+                    "primary": false
+               },
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "NY",
+                    "license": "320534-01",
+                    "primary": false
+               },
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "PA",
+                    "license": "OS016523",
+                    "primary": false
+               },
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "NJ",
+                    "license": "25MB09278000",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1316949563",
+          "Enumeration Date": "2005-06-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1501 MAIN ST",
+                    "Street-2": "",
+                    "City": "WOODWARD",
+                    "State": "OK",
+                    "Zip": "738013043",
+                    "Phone": "580-254-5316",
+                    "Fax": "580-256-6508"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1501 MAIN ST",
+                    "Street-2": "",
+                    "City": "WOODWARD",
+                    "State": "OK",
+                    "Zip": "738013043",
+                    "Phone": "580-254-5316",
+                    "Fax": "580-256-6508"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "OK",
+                    "license": "3310",
+                    "primary": true
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "OK",
+                    "license": "3310",
+                    "primary": false
+               },
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "OK",
+                    "license": "3310",
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1558610576",
+          "Enumeration Date": "2012-09-05",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1514 JEFFERSON HWY",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701212429",
+                    "Phone": "504-842-3000",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1514 JEFFERSON HWY",
+                    "Street-2": "",
+                    "City": "NEW ORLEANS",
+                    "State": "LA",
+                    "Zip": "701212429",
+                    "Phone": "504-842-3000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363AM0700X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant, Medical",
+                    "state": "LA",
+                    "license": "200706",
+                    "primary": false
+               },
+               {
+                    "code": "363AM0700X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant, Medical",
+                    "state": "CA",
+                    "license": "PA22522",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1780072868",
+          "Enumeration Date": "2014-12-24",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2900 N GREEN VALLEY PKWY STE 114",
+                    "Street-2": "",
+                    "City": "HENDERSON",
+                    "State": "NV",
+                    "Zip": "890140408",
+                    "Phone": "702-550-2151",
+                    "Fax": "702-977-9033"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2900 N GREEN VALLEY PKWY STE 114",
+                    "Street-2": "",
+                    "City": "HENDERSON",
+                    "State": "NV",
+                    "Zip": "890140408",
+                    "Phone": "702-550-2151",
+                    "Fax": "702-977-9033"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "163W00000X",
+                    "taxonomy_group": "",
+                    "desc": "Registered Nurse",
+                    "state": "IN",
+                    "license": "28203283A",
+                    "primary": false
+               },
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "IN",
+                    "license": "28203283A",
+                    "primary": false
+               },
+               {
+                    "code": "363LP2300X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Primary Care",
+                    "state": "NV",
+                    "license": "831710",
+                    "primary": true
+               },
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "CA",
+                    "license": "95008353",
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1154464410",
+          "Enumeration Date": "2007-02-15",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "9103 FRANKLIN SQUARE DR",
+                    "Street-2": "SUITE 307",
+                    "City": "BALTIMORE",
+                    "State": "MD",
+                    "Zip": "212373900",
+                    "Phone": "443-777-6225",
+                    "Fax": "410-391-4016"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "9103 FRANKLIN SQUARE DR",
+                    "Street-2": "SUITE 307",
+                    "City": "BALTIMORE",
+                    "State": "MD",
+                    "Zip": "212373900",
+                    "Phone": "443-777-6225",
+                    "Fax": "410-391-4016"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208C00000X",
+                    "taxonomy_group": "",
+                    "desc": "Colon & Rectal Surgery",
+                    "state": "MD",
+                    "license": "D0033135",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1699749374",
+          "Enumeration Date": "2006-02-17",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 636643",
+                    "Street-2": "",
+                    "City": "CINCINNATI",
+                    "State": "OH",
+                    "Zip": "452636643",
+                    "Phone": "440-989-3801",
+                    "Fax": "440-960-0264"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3600 KOLBE RD",
+                    "Street-2": "STE 227",
+                    "City": "LORAIN",
+                    "State": "OH",
+                    "Zip": "440531654",
+                    "Phone": "440-960-3304",
+                    "Fax": "440-960-4733"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "OH",
+                    "license": "35068422",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1740733880",
+          "Enumeration Date": "2016-07-25",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "152 SYLVAN ST FL 2A",
+                    "Street-2": "",
+                    "City": "DANVERS",
+                    "State": "MA",
+                    "Zip": "019233581",
+                    "Phone": "978-222-3121",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "152 SYLVAN ST FL 2A",
+                    "Street-2": "",
+                    "City": "DANVERS",
+                    "State": "MA",
+                    "Zip": "019233581",
+                    "Phone": "978-222-3121",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "101YA0400X",
+                    "taxonomy_group": "",
+                    "desc": "Counselor, Addiction (Substance Use Disorder)",
+                    "state": "MA",
+                    "license": "18140",
+                    "primary": false
+               },
+               {
+                    "code": "101YM0800X",
+                    "taxonomy_group": "",
+                    "desc": "Counselor, Mental Health",
+                    "state": "NC",
+                    "license": "17541",
+                    "primary": false
+               },
+               {
+                    "code": "101YM0800X",
+                    "taxonomy_group": "",
+                    "desc": "Counselor, Mental Health",
+                    "state": "MA",
+                    "license": "11554",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1326799016",
+          "Enumeration Date": "2022-01-13",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2255 GLADES RD STE 228W",
+                    "Street-2": "",
+                    "City": "BOCA RATON",
+                    "State": "FL",
+                    "Zip": "334317391",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1201 STONE ST STE 3",
+                    "Street-2": "",
+                    "City": "PORT HURON",
+                    "State": "MI",
+                    "Zip": "480603563",
+                    "Phone": "810-985-5000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LP2300X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Nurse Practitioner, Primary Care",
+                    "state": "MI",
+                    "license": "4704273942",
+                    "primary": false
+               },
+               {
+                    "code": "363L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner",
+                    "state": "MI",
+                    "license": "4704273942",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1689629875",
+          "Enumeration Date": "2006-05-24",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4000 ROUTE 66",
+                    "Street-2": "SUITE 131",
+                    "City": "TINTON FALLS",
+                    "State": "NJ",
+                    "Zip": "077537300",
+                    "Phone": "732-383-4189",
+                    "Fax": "732-383-4171"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "741 NORTHFIELD AVE",
+                    "Street-2": "SUITE 105",
+                    "City": "WEST ORANGE",
+                    "State": "NJ",
+                    "Zip": "070521174",
+                    "Phone": "973-243-9729",
+                    "Fax": "973-243-9674"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "NY",
+                    "license": "1764691",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0204X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Vascular & Interventional Radiology",
+                    "state": "NY",
+                    "license": "1764691",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0204X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Vascular & Interventional Radiology",
+                    "state": "NJ",
+                    "license": "25MA07034700",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1114144417",
+          "Enumeration Date": "2007-04-19",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4613 CHALMERS DR",
+                    "Street-2": "",
+                    "City": "NASHVILLE",
+                    "State": "TN",
+                    "Zip": "372154309",
+                    "Phone": "402-677-1299",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "200 W ACADEMY ST NW",
+                    "Street-2": "",
+                    "City": "GAINESVILLE",
+                    "State": "GA",
+                    "Zip": "305018568",
+                    "Phone": "770-282-8820",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "NE",
+                    "license": "24512",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "WI",
+                    "license": "55898-20",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "KS",
+                    "license": "04-33132",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "TN",
+                    "license": "54010",
+                    "primary": false
+               },
+               {
+                    "code": "2085R0202X",
+                    "taxonomy_group": "",
+                    "desc": "Radiology, Diagnostic Radiology",
+                    "state": "GA",
+                    "license": "76362",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073277695",
+          "Enumeration Date": "2021-10-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3100 SW 62ND AVE",
+                    "Street-2": "",
+                    "City": "MIAMI",
+                    "State": "FL",
+                    "Zip": "331553009",
+                    "Phone": "305-666-6511",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3100 SW 62ND AVE",
+                    "Street-2": "",
+                    "City": "MIAMI",
+                    "State": "FL",
+                    "Zip": "331553009",
+                    "Phone": "305-666-6511",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "103TC2200X",
+                    "taxonomy_group": "",
+                    "desc": "Psychologist, Clinical Child & Adolescent",
+                    "state": "FL",
+                    "license": "4952",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1659391050",
+          "Enumeration Date": "2006-07-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "8005 FARNAM DR STE 305",
+                    "Street-2": "",
+                    "City": "OMAHA",
+                    "State": "NE",
+                    "Zip": "681143426",
+                    "Phone": "402-390-4111",
+                    "Fax": "402-390-4115"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "222 N 192ND ST",
+                    "Street-2": "",
+                    "City": "ELKHORN",
+                    "State": "NE",
+                    "Zip": "680225363",
+                    "Phone": "402-390-4111",
+                    "Fax": "402-390-4115"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207X00000X",
+                    "taxonomy_group": "",
+                    "desc": "Orthopaedic Surgery",
+                    "state": "IA",
+                    "license": "29158",
+                    "primary": false
+               },
+               {
+                    "code": "207X00000X",
+                    "taxonomy_group": "",
+                    "desc": "Orthopaedic Surgery",
+                    "state": "NE",
+                    "license": "18740",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1689177271",
+          "Enumeration Date": "2018-03-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "43 WHITING HILL RD STE 300",
+                    "Street-2": "",
+                    "City": "BREWER",
+                    "State": "ME",
+                    "Zip": "044121006",
+                    "Phone": "207-973-5035",
+                    "Fax": "207-973-5042"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "895 UNION ST STE 12",
+                    "Street-2": "",
+                    "City": "BANGOR",
+                    "State": "ME",
+                    "Zip": "044013054",
+                    "Phone": "207-973-7979",
+                    "Fax": "207-947-9579"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "ME",
+                    "license": "DO3149",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1609893072",
+          "Enumeration Date": "2006-07-16",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1835 SAVOY DR",
+                    "Street-2": "STE. 300",
+                    "City": "ATLANTA",
+                    "State": "GA",
+                    "Zip": "303411072",
+                    "Phone": "678-289-0549",
+                    "Fax": "678-289-8756"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1045 SOUTHCREST DR",
+                    "Street-2": "STE. 200",
+                    "City": "STOCKBRIDGE",
+                    "State": "GA",
+                    "Zip": "302816113",
+                    "Phone": "678-289-0549",
+                    "Fax": "678-289-8756"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RH0003X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Hematology & Oncology",
+                    "state": "GA",
+                    "license": "037065",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1932598729",
+          "Enumeration Date": "2015-01-15",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "125 E MAXWELL ST",
+                    "Street-2": "",
+                    "City": "LEXINGTON",
+                    "State": "KY",
+                    "Zip": "405082678",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "125 E MAXWELL ST",
+                    "Street-2": "",
+                    "City": "LEXINGTON",
+                    "State": "KY",
+                    "Zip": "405082678",
+                    "Phone": "859-257-1000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LW0102X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Women's Health",
+                    "state": "CA",
+                    "license": "95002435",
+                    "primary": false
+               },
+               {
+                    "code": "363LW0102X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Women's Health",
+                    "state": "KY",
+                    "license": "3007785",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1255633525",
+          "Enumeration Date": "2010-11-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "114 PIPER HILL DR",
+                    "Street-2": "SUITE 103",
+                    "City": "SAINT PETERS",
+                    "State": "MO",
+                    "Zip": "633761661",
+                    "Phone": "636-442-5035",
+                    "Fax": "636-442-5036"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "114 PIPER HILL DR",
+                    "Street-2": "SUITE 103",
+                    "City": "SAINT PETERS",
+                    "State": "MO",
+                    "Zip": "633761661",
+                    "Phone": "636-442-5035",
+                    "Fax": "636-442-5036"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LA2200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Adult Health",
+                    "state": "MO",
+                    "license": "2010037296",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1144589268",
+          "Enumeration Date": "2012-05-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3181 SW SAM JACKSON PARK RD DEPT OF",
+                    "Street-2": "",
+                    "City": "PORTLAND",
+                    "State": "OR",
+                    "Zip": "972393011",
+                    "Phone": "035-494-8311",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3303 SW BOND AVE STE 7",
+                    "Street-2": "",
+                    "City": "PORTLAND",
+                    "State": "OR",
+                    "Zip": "97239",
+                    "Phone": "503-494-6594",
+                    "Fax": "503-494-5385"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RH0000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Hematology",
+                    "state": "OR",
+                    "license": "MD181485",
+                    "primary": true
+               },
+               {
+                    "code": "207RH0003X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Hematology & Oncology",
+                    "state": "OR",
+                    "license": "MD181485",
+                    "primary": false
+               }
+          ]
+     },
+     {
+          "Number": "1487127734",
+          "Enumeration Date": "2019-01-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "200 E PENNSYLVANIA AVE",
+                    "Street-2": "",
+                    "City": "PEORIA",
+                    "State": "IL",
+                    "Zip": "616033089",
+                    "Phone": "309-624-4000",
+                    "Fax": "309-624-4010"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "200 E PENNSYLVANIA AVE",
+                    "Street-2": "",
+                    "City": "PEORIA",
+                    "State": "IL",
+                    "Zip": "616033089",
+                    "Phone": "309-624-4000",
+                    "Fax": "309-624-4010"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner",
+                    "state": "IL",
+                    "license": "209018602",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1013273671",
+          "Enumeration Date": "2012-04-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4760 SEPULVEDA BLVD",
+                    "Street-2": "",
+                    "City": "CULVER CITY",
+                    "State": "CA",
+                    "Zip": "902304820",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "11133 WASHINGTON BLVD",
+                    "Street-2": "",
+                    "City": "CULVER CITY",
+                    "State": "CA",
+                    "Zip": "902323918",
+                    "Phone": "310-895-2300",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "106H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Marriage & Family Therapist",
+                    "state": "CA",
+                    "license": "LMFT 49595",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1245793058",
+          "Enumeration Date": "2019-04-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1400 N INTERSTATE 35 STE C2.410",
+                    "Street-2": "",
+                    "City": "AUSTIN",
+                    "State": "TX",
+                    "Zip": "787011926",
+                    "Phone": "512-324-7318",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1400 N INTERSTATE 35 STE C2.410",
+                    "Street-2": "",
+                    "City": "AUSTIN",
+                    "State": "TX",
+                    "Zip": "787011926",
+                    "Phone": "512-324-7318",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207Q00000X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine",
+                    "state": "TX",
+                    "license": "BP10066945",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1285602698",
+          "Enumeration Date": "2006-03-10",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2190 LYNN RD",
+                    "Street-2": "SUITE 220",
+                    "City": "THOUSAND OAKS",
+                    "State": "CA",
+                    "Zip": "91360",
+                    "Phone": "805-495-8050",
+                    "Fax": "805-496-2160"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "16255 VENTURA BLVD",
+                    "Street-2": "SUITE 910",
+                    "City": "ENCINO",
+                    "State": "CA",
+                    "Zip": "91436",
+                    "Phone": "818-990-4600",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2086S0129X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery, Vascular Surgery",
+                    "state": "CA",
+                    "license": "A30200",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1497945968",
+          "Enumeration Date": "2007-07-30",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "35 COLLIER RD NW",
+                    "Street-2": "SUITE 475",
+                    "City": "ATLANTA",
+                    "State": "GA",
+                    "Zip": "303091605",
+                    "Phone": "404-351-7900",
+                    "Fax": "404-351-7901"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1240 EAGLES LANDING PKWY",
+                    "Street-2": "SUITE 260",
+                    "City": "STOCKBRIDGE",
+                    "State": "GA",
+                    "Zip": "30281",
+                    "Phone": "404-351-7900",
+                    "Fax": "404-351-7901"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208C00000X",
+                    "taxonomy_group": "",
+                    "desc": "Colon & Rectal Surgery",
+                    "state": "CT",
+                    "license": "51826",
+                    "primary": false
+               },
+               {
+                    "code": "208C00000X",
+                    "taxonomy_group": "",
+                    "desc": "Colon & Rectal Surgery",
+                    "state": "GA",
+                    "license": "074740",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1467938985",
+          "Enumeration Date": "2018-07-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1021 S COTTONWOOD ST",
+                    "Street-2": "",
+                    "City": "NORTH PLATTE",
+                    "State": "NE",
+                    "Zip": "691016138",
+                    "Phone": "308-534-4438",
+                    "Fax": "308-534-4190"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1021 S COTTONWOOD ST",
+                    "Street-2": "",
+                    "City": "NORTH PLATTE",
+                    "State": "NE",
+                    "Zip": "69101",
+                    "Phone": "308-534-4438",
+                    "Fax": "308-534-4190"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "NE",
+                    "license": "112559",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1417330796",
+          "Enumeration Date": "2015-07-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1619 MAKEFIELD RD",
+                    "Street-2": "",
+                    "City": "YARDLEY",
+                    "State": "PA",
+                    "Zip": "190673152",
+                    "Phone": "215-801-4860",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5501 OLD YORK RD",
+                    "Street-2": "",
+                    "City": "PHILADELPHIA",
+                    "State": "PA",
+                    "Zip": "191413018",
+                    "Phone": "215-843-2330",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "213ES0103X",
+                    "taxonomy_group": "",
+                    "desc": "Podiatrist, Foot & Ankle Surgery",
+                    "state": "PA",
+                    "license": "SC006666",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1619401932",
+          "Enumeration Date": "2017-04-13",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3170 KETTERING BLVD BLDG B3",
+                    "Street-2": "",
+                    "City": "MORAINE",
+                    "State": "OH",
+                    "Zip": "454391924",
+                    "Phone": "937-991-3188",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "101 LOONEY RD",
+                    "Street-2": "",
+                    "City": "PIQUA",
+                    "State": "OH",
+                    "Zip": "453564153",
+                    "Phone": "937-335-1660",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "OH",
+                    "license": "35.141448",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1407341977",
+          "Enumeration Date": "2018-06-27",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3763 E MAIN ST",
+                    "Street-2": "",
+                    "City": "NEW WATERFORD",
+                    "State": "OH",
+                    "Zip": "444459762",
+                    "Phone": "330-420-2025",
+                    "Fax": "330-967-4444"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3763 E MAIN ST",
+                    "Street-2": "",
+                    "City": "NEW WATERFORD",
+                    "State": "OH",
+                    "Zip": "444459762",
+                    "Phone": "330-420-2025",
+                    "Fax": "330-967-4444"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "OH",
+                    "license": "APRN.CNP.023006",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1609864446",
+          "Enumeration Date": "2005-10-06",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3099 BRECKINRIDGE BLVD STE 110",
+                    "Street-2": "",
+                    "City": "DULUTH",
+                    "State": "GA",
+                    "Zip": "300961011",
+                    "Phone": "678-242-8035",
+                    "Fax": "678-373-1645"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3099 BRECKINRIDGE BLVD STE 110",
+                    "Street-2": "",
+                    "City": "DULUTH",
+                    "State": "GA",
+                    "Zip": "300961011",
+                    "Phone": "678-242-8035",
+                    "Fax": "678-373-1645"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "NC",
+                    "license": "9400694",
+                    "primary": false
+               },
+               {
+                    "code": "208M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Hospitalist",
+                    "state": "NC",
+                    "license": "9400694",
+                    "primary": false
+               },
+               {
+                    "code": "208M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Hospitalist",
+                    "state": "SC",
+                    "license": "20751",
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "GA",
+                    "license": "38161",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1821251968",
+          "Enumeration Date": "2008-07-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2501 KUSER RD STE 3",
+                    "Street-2": "",
+                    "City": "HAMILTON",
+                    "State": "NJ",
+                    "Zip": "086913386",
+                    "Phone": "609-896-0444",
+                    "Fax": "609-587-4349"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2501 KUSER RD",
+                    "Street-2": "",
+                    "City": "HAMILTON",
+                    "State": "NJ",
+                    "Zip": "086913386",
+                    "Phone": "609-587-4777",
+                    "Fax": "609-587-4349"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208100000X",
+                    "taxonomy_group": "",
+                    "desc": "Physical Medicine & Rehabilitation",
+                    "state": "NJ",
+                    "license": "25MB08908900",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1811776719",
+          "Enumeration Date": "2023-09-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "7729 DESOTO DR",
+                    "Street-2": "",
+                    "City": "NORTH CHARLESTON",
+                    "State": "SC",
+                    "Zip": "294209015",
+                    "Phone": "843-991-9705",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2073 CHARLIE HALL BLVD",
+                    "Street-2": "",
+                    "City": "CHARLESTON",
+                    "State": "SC",
+                    "Zip": "294145834",
+                    "Phone": "843-571-0643",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1811555840",
+          "Enumeration Date": "2019-06-04",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "300 PASTEUR DR",
+                    "Street-2": "",
+                    "City": "PALO ALTO",
+                    "State": "CA",
+                    "Zip": "943042203",
+                    "Phone": "650-723-4000",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "300 PASTEUR DR",
+                    "Street-2": "",
+                    "City": "PALO ALTO",
+                    "State": "CA",
+                    "Zip": "943042203",
+                    "Phone": "650-723-4000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "103T00000X",
+                    "taxonomy_group": "",
+                    "desc": "Psychologist",
+                    "state": "CA",
+                    "license": "PSY27774",
+                    "primary": false
+               },
+               {
+                    "code": "103TC2200X",
+                    "taxonomy_group": "",
+                    "desc": "Psychologist, Clinical Child & Adolescent",
+                    "state": "CA",
+                    "license": "PSY27774",
+                    "primary": false
+               },
+               {
+                    "code": "103TC0700X",
+                    "taxonomy_group": "",
+                    "desc": "Psychologist, Clinical",
+                    "state": "CA",
+                    "license": "PSY27774",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1396302964",
+          "Enumeration Date": "2019-05-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "839 W 39TH TER APT 10",
+                    "Street-2": "",
+                    "City": "KANSAS CITY",
+                    "State": "MO",
+                    "Zip": "641114077",
+                    "Phone": "913-439-7928",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5380 TECH DATA DR STE 101",
+                    "Street-2": "",
+                    "City": "CLEARWATER",
+                    "State": "FL",
+                    "Zip": "337603122",
+                    "Phone": "727-507-2514",
+                    "Fax": "727-214-0916"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "MO",
+                    "license": "2019023509",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1447623038",
+          "Enumeration Date": "2015-11-04",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1622 HILLYER ROBINSON INDUSTRIAL PKWY S",
+                    "Street-2": "",
+                    "City": "OXFORD",
+                    "State": "AL",
+                    "Zip": "362031305",
+                    "Phone": "256-419-0805",
+                    "Fax": "256-419-0812"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1622 HILLYER ROBINSON INDUSTRIAL PKWY S",
+                    "Street-2": "",
+                    "City": "OXFORD",
+                    "State": "AL",
+                    "Zip": "362031305",
+                    "Phone": "256-419-0805",
+                    "Fax": "256-419-0812"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "AL",
+                    "license": "1-091535",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1043335300",
+          "Enumeration Date": "2007-03-19",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 5546",
+                    "Street-2": "",
+                    "City": "DENVER",
+                    "State": "CO",
+                    "Zip": "802175546",
+                    "Phone": "801-475-3090",
+                    "Fax": "801-475-3089"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4650 HARRISON BLVD",
+                    "Street-2": "",
+                    "City": "OGDEN",
+                    "State": "UT",
+                    "Zip": "844034303",
+                    "Phone": "801-475-3090",
+                    "Fax": "801-475-3089"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207N00000X",
+                    "taxonomy_group": "",
+                    "desc": "Dermatology",
+                    "state": "UT",
+                    "license": "7949488-1205",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1114402443",
+          "Enumeration Date": "2018-10-02",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5565 W LAS POSITAS BLVD STE 240",
+                    "Street-2": "",
+                    "City": "PLEASANTON",
+                    "State": "CA",
+                    "Zip": "945885807",
+                    "Phone": "925-460-8444",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5565 W LAS POSITAS BLVD STE 240",
+                    "Street-2": "",
+                    "City": "PLEASANTON",
+                    "State": "CA",
+                    "Zip": "945885807",
+                    "Phone": "925-460-8444",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LP0200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Pediatrics",
+                    "state": "CA",
+                    "license": "95010121",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1922629104",
+          "Enumeration Date": "2020-04-29",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5917 CROSSTOWN EXPRESSWAY SH 286",
+                    "Street-2": "",
+                    "City": "CORPUS CHRISTI",
+                    "State": "TX",
+                    "Zip": "78417",
+                    "Phone": "361-854-0811",
+                    "Fax": "361-806-5040"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "5917 CROSSTOWN EXPRESSWAY SH 286",
+                    "Street-2": "",
+                    "City": "CORPUS CHRISTI",
+                    "State": "TX",
+                    "Zip": "78417",
+                    "Phone": "361-854-0811",
+                    "Fax": "361-806-5040"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363A00000X",
+                    "taxonomy_group": "",
+                    "desc": "Physician Assistant",
+                    "state": "TX",
+                    "license": "PA13629",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073985834",
+          "Enumeration Date": "2015-10-20",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "810 VINE ST",
+                    "Street-2": "",
+                    "City": "SAINT ALBANS",
+                    "State": "WV",
+                    "Zip": "251773267",
+                    "Phone": "304-400-7241",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "810 VINE ST",
+                    "Street-2": "",
+                    "City": "SAINT ALBANS",
+                    "State": "WV",
+                    "Zip": "251773267",
+                    "Phone": "304-400-7241",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "WV",
+                    "license": "APRN82184-FNP-BC",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1801856125",
+          "Enumeration Date": "2006-03-23",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1000 BOWER HILL ROAD",
+                    "Street-2": "ST CLAIR HOSPITAL - AFFILIATE BILLING - PAMALYN PATNESK",
+                    "City": "PITTSBURGH",
+                    "State": "PA",
+                    "Zip": "152431873",
+                    "Phone": "412-942-2548",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1050 BOWER HILL RD STE 306",
+                    "Street-2": "",
+                    "City": "PITTSBURGH",
+                    "State": "PA",
+                    "Zip": "152431870",
+                    "Phone": "412-232-5549",
+                    "Fax": "412-232-8215"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "174400000X",
+                    "taxonomy_group": "",
+                    "desc": "Specialist",
+                    "state": "PA",
+                    "license": "MD064093L",
+                    "primary": false
+               },
+               {
+                    "code": "207RP1001X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Pulmonary Disease",
+                    "state": "PA",
+                    "license": "MD064093L",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1528027356",
+          "Enumeration Date": "2006-03-21",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "46 OVERLOOK RDG",
+                    "Street-2": "",
+                    "City": "OAKLAND",
+                    "State": "NJ",
+                    "Zip": "074362361",
+                    "Phone": "973-417-0181",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1300 MAIN AVE STE 2C",
+                    "Street-2": "",
+                    "City": "CLIFTON",
+                    "State": "NJ",
+                    "Zip": "070112266",
+                    "Phone": "973-417-0181",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "NJ",
+                    "license": "25MA10724300",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1437491685",
+          "Enumeration Date": "2013-03-25",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "55 ARCH ST",
+                    "Street-2": "SUITE 1B",
+                    "City": "AKRON",
+                    "State": "OH",
+                    "Zip": "443041423",
+                    "Phone": "330-375-3315",
+                    "Fax": "330-375-7779"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "75 ARCH ST STE G1",
+                    "Street-2": "",
+                    "City": "AKRON",
+                    "State": "OH",
+                    "Zip": "443041429",
+                    "Phone": "330-375-3039",
+                    "Fax": "234-312-2329"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207RH0002X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine, Hospice and Palliative Medicine",
+                    "state": "OH",
+                    "license": "35.131517",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1629325857",
+          "Enumeration Date": "2012-08-07",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3440 BELL ST STE 320 BOX# 330",
+                    "Street-2": "",
+                    "City": "AMARILLO",
+                    "State": "TX",
+                    "Zip": "79109",
+                    "Phone": "718-772-2343",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1400 S COULTER ST",
+                    "Street-2": "",
+                    "City": "AMARILLO",
+                    "State": "TX",
+                    "Zip": "791061786",
+                    "Phone": "806-414-9001",
+                    "Fax": "806-354-5516"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "ME",
+                    "license": "MD19260",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1245987833",
+          "Enumeration Date": "2022-03-03",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3915 JEFFERSON LN",
+                    "Street-2": "",
+                    "City": "AMELIA",
+                    "State": "OH",
+                    "Zip": "451021186",
+                    "Phone": "513-264-1156",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "7794 5 MILE RD",
+                    "Street-2": "",
+                    "City": "CINCINNATI",
+                    "State": "OH",
+                    "Zip": "452302368",
+                    "Phone": "513-862-4957",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "OH",
+                    "license": "APRN.CNP.0030913",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1265877732",
+          "Enumeration Date": "2013-05-09",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1355 RIVER BEND DR",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "752474915",
+                    "Phone": "214-638-2000",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1355 RIVER BEND DR",
+                    "Street-2": "",
+                    "City": "DALLAS",
+                    "State": "TX",
+                    "Zip": "752474915",
+                    "Phone": "214-638-2000",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "207ZP0102X",
+                    "taxonomy_group": "",
+                    "desc": "Pathology, Anatomic Pathology & Clinical Pathology",
+                    "state": "TX",
+                    "license": "S1937",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1356482905",
+          "Enumeration Date": "2007-02-08",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5767 W CENTURY BLVD STE 400",
+                    "Street-2": "",
+                    "City": "LOS ANGELES",
+                    "State": "CA",
+                    "Zip": "900455631",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "200 UCLA MEDICAL PLZ",
+                    "Street-2": "",
+                    "City": "LOS ANGELES",
+                    "State": "CA",
+                    "Zip": "900953117",
+                    "Phone": "310-794-7274",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207VX0201X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology, Gynecologic Oncology",
+                    "state": "MD",
+                    "license": "D0064486",
+                    "primary": false
+               },
+               {
+                    "code": "207VX0201X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology, Gynecologic Oncology",
+                    "state": "OH",
+                    "license": "35092014",
+                    "primary": false
+               },
+               {
+                    "code": "207V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Obstetrics & Gynecology",
+                    "state": "CA",
+                    "license": "C168631",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1174554000",
+          "Enumeration Date": "2006-07-06",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "1635 DIVISADERO ST",
+                    "Street-2": "SUITE 625, BOX 1821",
+                    "City": "SAN FRANCISCO",
+                    "State": "CA",
+                    "Zip": "941430001",
+                    "Phone": "415-476-4029",
+                    "Fax": "415-476-4150"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "505 PARNASSUS AVE # M653",
+                    "Street-2": "",
+                    "City": "SAN FRANCISCO",
+                    "State": "CA",
+                    "Zip": "941432204",
+                    "Phone": "415-476-3831",
+                    "Fax": "415-502-4372"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208000000X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics",
+                    "state": "CA",
+                    "license": "G75533",
+                    "primary": false
+               },
+               {
+                    "code": "2080P0207X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Pediatric Hematology-Oncology",
+                    "state": "CA",
+                    "license": "G75533",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1467421602",
+          "Enumeration Date": "2006-03-17",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "3131 LA CANADA ST STE 217",
+                    "Street-2": "",
+                    "City": "LAS VEGAS",
+                    "State": "NV",
+                    "Zip": "891692579",
+                    "Phone": "702-369-7152",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "3131 LA CANADA ST STE 217",
+                    "Street-2": "",
+                    "City": "LAS VEGAS",
+                    "State": "NV",
+                    "Zip": "891692579",
+                    "Phone": "702-369-7152",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "208600000X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery",
+                    "state": "SC",
+                    "license": "32458",
+                    "primary": false
+               },
+               {
+                    "code": "2086S0102X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery, Surgical Critical Care",
+                    "state": "SC",
+                    "license": "32458",
+                    "primary": false
+               },
+               {
+                    "code": "2086S0102X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery, Surgical Critical Care",
+                    "state": "NV",
+                    "license": "10781",
+                    "primary": false
+               },
+               {
+                    "code": "208600000X",
+                    "taxonomy_group": "",
+                    "desc": "Surgery",
+                    "state": "NV",
+                    "license": "10781",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1073978979",
+          "Enumeration Date": "2015-12-18",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "2106 OLATHE BLVD MAILSTOP 4004",
+                    "Street-2": "",
+                    "City": "KANSAS CITY",
+                    "State": "KS",
+                    "Zip": "661600001",
+                    "Phone": "913-588-6300",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "2106 OLATHE BLVD MAILSTOP 4004",
+                    "Street-2": "",
+                    "City": "KANSAS CITY",
+                    "State": "KS",
+                    "Zip": "661600001",
+                    "Phone": "913-588-6300",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "103TC2200X",
+                    "taxonomy_group": "",
+                    "desc": "Psychologist, Clinical Child & Adolescent",
+                    "state": "MD",
+                    "license": "05470",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1740834993",
+          "Enumeration Date": "2019-07-26",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "5219 CITY BANK PKWY STE 35",
+                    "Street-2": "",
+                    "City": "LUBBOCK",
+                    "State": "TX",
+                    "Zip": "794073545",
+                    "Phone": "806-761-0333",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "7501 QUAKER AVE FL 1",
+                    "Street-2": "",
+                    "City": "LUBBOCK",
+                    "State": "TX",
+                    "Zip": "794243367",
+                    "Phone": "806-788-3306",
+                    "Fax": "806-722-3861"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LF0000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Family",
+                    "state": "TX",
+                    "license": "AP141546",
+                    "primary": false
+               },
+               {
+                    "code": "363LP0200X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Pediatrics",
+                    "state": "TX",
+                    "license": "AP141546",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1538150271",
+          "Enumeration Date": "2005-11-02",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "360 DARDANELLI LN STE 1C",
+                    "Street-2": "",
+                    "City": "LOS GATOS",
+                    "State": "CA",
+                    "Zip": "950321421",
+                    "Phone": "408-374-5837",
+                    "Fax": "408-374-5808"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "360 DARDANELLI LN",
+                    "Street-2": "STE 1E",
+                    "City": "LOS GATOS",
+                    "State": "CA",
+                    "Zip": "950321421",
+                    "Phone": "408-374-5837",
+                    "Fax": "408-374-5808"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2084N0400X",
+                    "taxonomy_group": "",
+                    "desc": "Psychiatry & Neurology, Neurology",
+                    "state": "PA",
+                    "license": "G59672",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1326275421",
+          "Enumeration Date": "2009-06-16",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "8901 ROCKVILLE PIKE",
+                    "Street-2": "",
+                    "City": "BETHESDA",
+                    "State": "MD",
+                    "Zip": "208890001",
+                    "Phone": "301-295-6428",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1701 INNOVATION DR",
+                    "Street-2": "",
+                    "City": "YORK",
+                    "State": "PA",
+                    "Zip": "174088815",
+                    "Phone": "717-850-4040",
+                    "Fax": "717-850-4144"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "2080N0001X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Neonatal-Perinatal Medicine",
+                    "state": "VA",
+                    "license": "0101247947",
+                    "primary": false
+               },
+               {
+                    "code": "390200000X",
+                    "taxonomy_group": "",
+                    "desc": "Student in an Organized Health Care Education/Training Program",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+               },
+               {
+                    "code": "2080N0001X",
+                    "taxonomy_group": "",
+                    "desc": "Pediatrics, Neonatal-Perinatal Medicine",
+                    "state": "PA",
+                    "license": "MD477826",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1538691746",
+          "Enumeration Date": "2017-03-28",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "PO BOX 917770",
+                    "Street-2": "",
+                    "City": "ORLANDO",
+                    "State": "FL",
+                    "Zip": "328910001",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "13330 USF LAUREL DR",
+                    "Street-2": "",
+                    "City": "TAMPA",
+                    "State": "FL",
+                    "Zip": "336126601",
+                    "Phone": "813-821-8038",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207QS0010X",
+                    "taxonomy_group": "",
+                    "desc": "Family Medicine, Sports Medicine",
+                    "state": "FL",
+                    "license": "ME137522",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1548314263",
+          "Enumeration Date": "2007-01-22",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "70 TROUTBROOD ROAD",
+                    "Street-2": "",
+                    "City": "CHESHIRE",
+                    "State": "CT",
+                    "Zip": "06410",
+                    "Phone": "203-439-0914",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1450 CHAPEL ST",
+                    "Street-2": "",
+                    "City": "NEW HAVEN",
+                    "State": "CT",
+                    "Zip": "065114405",
+                    "Phone": "203-789-3464",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207P00000X",
+                    "taxonomy_group": "",
+                    "desc": "Emergency Medicine",
+                    "state": "CT",
+                    "license": "043184",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1255728994",
+          "Enumeration Date": "2015-04-21",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "YES",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4411 SUWANEE DAM RD STE 440",
+                    "Street-2": "",
+                    "City": "SUWANEE",
+                    "State": "GA",
+                    "Zip": "300248706",
+                    "Phone": "470-589-7120",
+                    "Fax": "844-350-6954"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4411 SUWANEE DAM RD STE 440",
+                    "Street-2": "",
+                    "City": "SUWANEE",
+                    "State": "GA",
+                    "Zip": "300248706",
+                    "Phone": "470-589-7120",
+                    "Fax": "844-350-6954"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "",
+                    "desc": "Internal Medicine",
+                    "state": "GA",
+                    "license": "081328",
+                    "primary": false
+               },
+               {
+                    "code": "208M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Hospitalist",
+                    "state": "GA",
+                    "license": "081328",
+                    "primary": false
+               },
+               {
+                    "code": "207R00000X",
+                    "taxonomy_group": "193400000X - Single Specialty Group",
+                    "desc": "Internal Medicine",
+                    "state": "GA",
+                    "license": "81328",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1013558287",
+          "Enumeration Date": "2019-09-30",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "4905 S 107TH AVE STE 200",
+                    "Street-2": "",
+                    "City": "OMAHA",
+                    "State": "NE",
+                    "Zip": "681271940",
+                    "Phone": "505-850-2544",
+                    "Fax": "877-684-6190"
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4905 S 107TH AVE STE 200",
+                    "Street-2": "",
+                    "City": "OMAHA",
+                    "State": "NE",
+                    "Zip": "681271940",
+                    "Phone": "505-850-2544",
+                    "Fax": "877-684-6190"
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363LP0808X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner, Psych/Mental Health",
+                    "state": "NE",
+                    "license": "112942",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1255945861",
+          "Enumeration Date": "2020-09-01",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "508 WESTERN AVE",
+                    "Street-2": "",
+                    "City": "COVINGTON",
+                    "State": "KY",
+                    "Zip": "410111000",
+                    "Phone": "",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "4631 RIDGE AVE STE A",
+                    "Street-2": "",
+                    "City": "CINCINNATI",
+                    "State": "OH",
+                    "Zip": "452091028",
+                    "Phone": "513-882-7006",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner",
+                    "state": "OH",
+                    "license": "023604",
+                    "primary": true
+               }
+          ]
+     },
+     {
+          "Number": "1326406695",
+          "Enumeration Date": "2016-02-02",
+          "NPI Type": "NPI-1",
+          "Sole Proprietor": "NO",
+          "Status": "Active",
+          "Addresses": {
+               "Mailing Address": {
+                    "Street-1": "200 CORPORATE BLVD",
+                    "Street-2": "",
+                    "City": "LAFAYETTE",
+                    "State": "LA",
+                    "Zip": "705083870",
+                    "Phone": "800-893-9698",
+                    "Fax": ""
+               },
+               "Primary Practice Address": {
+                    "Street-1": "1501 ST JOSEPH PKWY",
+                    "Street-2": "",
+                    "City": "HOUSTON",
+                    "State": "TX",
+                    "Zip": "770028303",
+                    "Phone": "713-757-7557",
+                    "Fax": ""
+               }
+          },
+          "Taxonomies": [
+               {
+                    "code": "363L00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nurse Practitioner",
+                    "state": "TX",
+                    "license": "AP130167",
+                    "primary": true
+               }
+          ]
+     }
+]
