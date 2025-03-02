@@ -1,0 +1,85 @@
+{
+    "jobs": [
+        {
+            "Subject": "Front End Developer at 4Sphere Software Solutions and 12 more jobs in\r\n Noida for you. Apply Now.",
+            "Date": "Tue, 11 Feb 2025 19:53:36 +0000 (UTC)",
+            "From": "Glassdoor Jobs <noreply@glassdoor.com>",
+            "Words": 0,
+            "Lines": 0,
+            "No of Attachment": 0,
+            "Attachments": []
+        },
+        {
+            "Subject": "52,000 jobs lost in the private sector /not the govt so far since\r\n cutting USAID...",
+            "Date": "Tue, 11 Feb 2025 18:30:11 +0000 (UTC)",
+            "From": "Glassdoor Community <noreply@glassdoor.com>",
+            "Words": 0,
+            "Lines": 0,
+            "No of Attachment": 0,
+            "Attachments": []
+        }
+    ],
+    "attachments": [
+        {
+            "Subject": "Testing mail",
+            "Date": "Tue, 11 Feb 2025 14:07:37 +0530",
+            "From": "B4 Books <b4books.store@gmail.com>",
+            "Words": 11,
+            "Lines": 3,
+            "No of Attachment": 1,
+            "Attachments": [
+                "8283-Rohit-Varshney-Input-Output and File Handling-06_02_2025.pdf"
+            ]
+        },
+        {
+            "Subject": "Sample mail having multiple attachment",
+            "Date": "Tue, 11 Feb 2025 14:39:41 +0530",
+            "From": "B4 Books <b4books.store@gmail.com>",
+            "Words": 247,
+            "Lines": 43,
+            "No of Attachment": 3,
+            "Attachments": [
+                "GenAI.txt",
+                "Learning Python, 5th Edition.pdf",
+                "Schema_Design(ER Diagram).png"
+            ]
+        },
+        {
+            "Subject": "Picture",
+            "Date": "Tue, 11 Feb 2025 16:08:33 +0530",
+            "From": "B4 Books <b4books.store@gmail.com>",
+            "Words": 1,
+            "Lines": 2,
+            "No of Attachment": 1,
+            "Attachments": [
+                "Screenshot from 2025-02-10 16-27-26.png"
+            ]
+        }
+    ],
+    "pictures": [
+        {
+            "Subject": "Sample mail having multiple attachment",
+            "Date": "Tue, 11 Feb 2025 14:39:41 +0530",
+            "From": "B4 Books <b4books.store@gmail.com>",
+            "Words": 247,
+            "Lines": 43,
+            "No of Attachment": 3,
+            "Attachments": [
+                "GenAI.txt",
+                "Learning Python, 5th Edition.pdf",
+                "Schema_Design(ER Diagram).png"
+            ]
+        },
+        {
+            "Subject": "Picture",
+            "Date": "Tue, 11 Feb 2025 16:08:33 +0530",
+            "From": "B4 Books <b4books.store@gmail.com>",
+            "Words": 1,
+            "Lines": 2,
+            "No of Attachment": 1,
+            "Attachments": [
+                "Screenshot from 2025-02-10 16-27-26.png"
+            ]
+        }
+    ]
+}
